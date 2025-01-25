@@ -8,10 +8,10 @@ import threading
 import subprocess
 
 # --- Configuration ---
-bot = telebot.TeleBot('7896932869:AAE477kVKyFopTT0O1bqp5u7DdJTSuhZQsc')
+bot = telebot.TeleBot('7966250018:AAH6e25M5unFo2GR9WLYF43b8R9M25U4z98')
 
 # Admin user IDs
-admin_id = {"1203887806"}  # Replace with actual admin ID
+admin_id = {"6536806483"}  # Replace with actual admin ID
 
 # Files for data storage
 USER_FILE = "users.json"
